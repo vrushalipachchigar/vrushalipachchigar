@@ -8,7 +8,7 @@ Skills: WORDPRESS / JAVA / HTML5 / CSS3 / JS / PYTHON
 
 - 🌱 I’m currently learning Selenium with python 
 
-
+#### Let's connect...! 	:earth_asia:
   <a href="https://www.linkedin.com/in/vrushali-pachchigar/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
