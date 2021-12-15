@@ -1,4 +1,4 @@
-### Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is Vrushali!
+## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is Vrushali!
 #### I am an Engineering Student :mortar_board:
 ![I am Engineering Student :mortar_board:](https://user-images.githubusercontent.com/78303560/146250560-281d3ec0-d293-4012-834e-ec5339ff007c.jpg)
 
