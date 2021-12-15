@@ -4,7 +4,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About me:
 I'm very enthusiastic when it comes to learning about new things. I have also maintained consistency in academics since schooling and have been at top in my batch. I also strongly believe in motto " You only live once" and that been inspiring me everyday to learn something new and enhance my skills. I also love learning new languages and as of now I can have basic conversation in French, Korean and lil bit of Chinese. 
-~ 🌱 I’m currently learning Selenium with python
+-🌱 I’m currently learning Selenium with python
  
 Skills: WORDPRESS / JAVA / HTML5 / CSS3 / JS / PYTHON
 
