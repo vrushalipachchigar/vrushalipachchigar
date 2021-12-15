@@ -8,6 +8,27 @@ Skills: WORDPRESS / JAVA / HTML5 / CSS3 / JS / PYTHON
 
 - 🌱 I’m currently learning Selenium with python 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vrushalipachchigar )  
-
+  <a href="https://twitter.com/Vrushali_32">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/vrushali-pachchigar/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/vrushxlii/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://t.me/vishwasacharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a>&ensp;
+  <a href="https://vishwasacharya.blogspot.com">
+    <img width="30px" src="https://img.icons8.com/color/48/000000/blogger.png" />
+  </a>&ensp;
+  <a href="https://youtube.com/c/VishwasAcharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+  </a>&ensp;
+  <a href="https://snapchat.com/add/vishwasracharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/snapchat/snapchat-icon.svg" />
+  </a>&ensp;
+  <a href="https://facebook.com/vishwasracharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
+  </a>
