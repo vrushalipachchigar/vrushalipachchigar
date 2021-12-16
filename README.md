@@ -18,8 +18,6 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
  ![Vrushali's github stats](https://github-readme-stats.vercel.app/api?username=vrushalipachchigar&show_icons=true&hide_border=true)
 <br/>
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalipachchigar) -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrushalipachchigar.vrushalipachchigar)
-![twitter-follower](https://img.shields.io/twitter/follow/Vrushali_32?style=social) 
 
 ## Let's connect...! 	:earth_asia:
   <a href="https://www.linkedin.com/in/vrushali-pachchigar/">
@@ -37,3 +35,5 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
   <a href="https://www.facebook.com/vrushali.pachchigar.9">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrushalipachchigar.vrushalipachchigar)
