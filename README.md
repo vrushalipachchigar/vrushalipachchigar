@@ -36,4 +36,5 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
   
+  <br/>
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrushalipachchigar.vrushalipachchigar)
