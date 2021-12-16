@@ -8,7 +8,7 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
 ~🌱 I’m currently learning Selenium with python
  
  ## 🔧 Tools & Technologies
- ![](https://img.shields.io/badge/<HTML>-<MESSAGE>-<COLOR>)
+ ![](https://img.shields.io/badge/<HTML>-<blue>)
  ![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
