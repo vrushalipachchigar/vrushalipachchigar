@@ -8,12 +8,11 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
 ~🌱 I’m currently learning Selenium with python
  
  ![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3l&logoColor=white&color=2bbc8a)
 
 ## Let's connect...! 	:earth_asia:
   <a href="https://www.linkedin.com/in/vrushali-pachchigar/">
