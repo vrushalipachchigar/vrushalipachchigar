@@ -15,10 +15,7 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
  
- ![Vrushali's github stats](https://github-readme-stats.vercel.app/api?username=vrushalipachchigar&show_icons=true&hide_border=true)
-<br/>
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalipachchigar) -->
-## Let's connect...! 	:earth_asia:
+ ## Let's connect...! 	:earth_asia:
   <a href="https://www.linkedin.com/in/vrushali-pachchigar/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
@@ -35,4 +32,8 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
   
+ ![Vrushali's github stats](https://github-readme-stats.vercel.app/api?username=vrushalipachchigar&show_icons=true&hide_border=true)
+<br/>
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalipachchigar) -->
+
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrushalipachchigar.vrushalipachchigar)
