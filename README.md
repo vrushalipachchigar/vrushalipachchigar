@@ -7,16 +7,12 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
  
  ## 🔧 Tools & Technologies:
  
- <p> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-E23237?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
- <img src="https://img.shields.io/badge/WordPress-38B2AC?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-339933?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></p>
- 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bootstrap,react,wordpress,git,github,vscode,nodejs,atom,jquery&perline=7" />
+  </a>
+</p>
  
  ## Let's connect...! 	:earth_asia:
   <a href="https://www.linkedin.com/in/vrushali-pachchigar/">
