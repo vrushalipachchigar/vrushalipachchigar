@@ -29,15 +29,21 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Portfolio
-        uses: actions/index@v4
-      # - name: Setup Pages
-      #   uses: actions/configure-pages@v5
-      # - name: Upload artifact
-      #   uses: actions/upload-pages-artifact@v3
+      # Checkout the repository content
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      # Setup Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+
+      # Upload artifact
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          # Upload entire repository
-          path: '.'
+          path: '.'  # Upload the entire repository
+
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1
